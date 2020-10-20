@@ -2,7 +2,7 @@
 //  MoviesViewController.swift
 //  flixster
 //
-//  Created by Gabby Gonzalez on 10/20/20.
+//  Created by Gabriella   Gonzalez on 10/20/20.
 //
 
 import UIKit
