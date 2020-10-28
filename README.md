@@ -17,6 +17,8 @@
 
 ### Notes
 Describe any challenges encountered while building the app.
+Fixing the grid layout was most tricky for me.
+Figuring out the where they found the endpoint ID for wonder woman
 
 # Flix
 
